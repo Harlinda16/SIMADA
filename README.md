@@ -17,7 +17,7 @@
 </p>
 <br>
 
-## Tentang Cookify
+## Tentang SIMADA
 
 SIMADA adalah aplikasi web berbasis framework Laravel yang bertujuan untuk mempermudah pengelolaan data akademik, terutama dalam manajemen data guru, siswa, dan mata pelajaran.
 
