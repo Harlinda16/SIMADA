@@ -2,7 +2,7 @@
 <h3 align="center">(Sistem Informasi Manajemen Akademik Dasar)</h3><br>
 
 <p align="center">
-  <img src="public/images/logo unsulbar.jpg" alt="Logo Unsulbar" width="150" height="auto"><br><br>
+  <img src="public/images/logo_unsulbar.jpg" alt="Logo Unsulbar" width="150" height="auto"><br><br>
 </p>
 
 <p align="center">
