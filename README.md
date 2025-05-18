@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Nama :</strong> Harlinda <br>
-  <strong>NIM :</strong> D0223345
+  <strong>NIM :</strong> D0223345`
 </p>
 <br><br>
 
